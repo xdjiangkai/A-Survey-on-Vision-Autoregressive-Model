@@ -8,3 +8,17 @@ Inspired by their notable success in NLP field, autoregressive models have been 
 This paper provides a systematic review of vision autoregressive models, including the development of a taxonomy of existing methods and highlighting their major contributions, strengths, and limitations, covering various vision tasks such as image generation, video generation, image editing, motion generation, medical image analysis, 3D generation, robotic manipulation, unified multimodal generation, etc.
 Besides, we investigate and analyze the latest advancements in autoregressive models, including thorough benchmarking and discussion of existing methods across various evaluation datasets.
 Finally, we outline key challenges and promising directions for future research, offering a roadmap to guide further advancements in vision autoregressive models.
+
+
+## Citation
+```
+@misc{jiang2024surveyvisionautoregressivemodel,
+      title={A Survey on Vision Autoregressive Model}, 
+      author={Kai Jiang and Jiaxing Huang},
+      year={2024},
+      eprint={2411.08666},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.08666}, 
+}
+```
